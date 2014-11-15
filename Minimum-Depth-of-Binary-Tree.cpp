@@ -1,6 +1,5 @@
 // https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/
 
-
 /**
  * Definition for binary tree
  * struct TreeNode {
